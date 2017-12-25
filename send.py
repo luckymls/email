@@ -1,4 +1,5 @@
 # Author: Melis Luca <melis.luca2014@gmail.com>
+# License: BSD-3 Clause
 # 3-Parts: smtplib
 
 # Required:
